@@ -12,9 +12,9 @@ function App() {
       <Dashboard />
       <h2>Task 2</h2>
       {/* <Button/> */}
+      <Navbar />
       <Input />
       <Footer />
-      <Navbar />
       <h2>Task 3</h2>
       <UserGateway />
       <h2>Task 4</h2>
